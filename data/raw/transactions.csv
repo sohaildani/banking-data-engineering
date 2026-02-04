@@ -1,0 +1,4 @@
+txn_id,account_id,amount,txn_type,txn_date
+9001,101,-5000,DEBIT,2024-06-10
+9002,101,15000,CREDIT,2024-06-11
+9003,102,-2000,DEBIT,2024-06-12

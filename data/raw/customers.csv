@@ -1,0 +1,4 @@
+customer_id,name,dob,kyc_status,updated_at
+1,Ahmed Ali,1985-02-01,VERIFIED,2024-01-01
+1,Ahmed Ali,1985-02-01,EXPIRED,2024-06-01
+2,Sara Khan,1990-07-11,VERIFIED,2024-03-15
